@@ -1,0 +1,29 @@
+# Archivos y carpetas relacionados con Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyi
+
+# Entorno virtual
+venv/
+conviertoChatbot/
+
+# Archivos y carpetas relacionados con IDEs y editores de texto
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Archivos de registro y otros archivos temporales
+*.log
+*.tmp
+
+# Archivos y carpetas del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Credenciales y configuraciones sensibles
+.env
+config.json
+*.pem
