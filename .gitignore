@@ -8,6 +8,9 @@ __pycache__/
 # Entorno virtual
 venv/
 conviertoChatbot/
+.venv/
+venv/
+venvConvierto/
 
 # Archivos y carpetas relacionados con IDEs y editores de texto
 .vscode/
