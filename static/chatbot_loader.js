@@ -47,7 +47,7 @@
   }
 
   function initializeChatbot() {
-    var chatbotUrl = 'https://convierto.uc.r.appspot.com/'; // Reemplaza esto con la URL de tu servidor Flask.
+    var chatbotUrl = 'http://127.0.0.1:8080/'; // Reemplaza esto con la URL de tu servidor Flask.
 
     injectChatbotHTML();
     loadStylesheet(chatbotUrl + '/static/styles.css');
